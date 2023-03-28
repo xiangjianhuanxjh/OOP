@@ -1,0 +1,36 @@
+﻿  MyString.cpp
+c:\users\19033\desktop\oop项目\项目四-继承与派生\shiyan6\第13章练习解答_vector\第13章练习解答_vector\vec.h(14): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+  c:\users\19033\desktop\oop项目\项目四-继承与派生\shiyan6\第13章练习解答_vector\第13章练习解答_vector\vec.h(24): note: 参见对正在编译的 类 模板 实例化 "VECTOR<T>" 的引用
+c:\users\19033\desktop\oop项目\项目四-继承与派生\shiyan6\第13章练习解答_vector\第13章练习解答_vector\vec.h(68): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+  test.cpp
+c:\users\19033\desktop\oop项目\项目四-继承与派生\shiyan6\第13章练习解答_vector\第13章练习解答_vector\vec.h(14): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+  c:\users\19033\desktop\oop项目\项目四-继承与派生\shiyan6\第13章练习解答_vector\第13章练习解答_vector\vec.h(24): note: 参见对正在编译的 类 模板 实例化 "VECTOR<T>" 的引用
+c:\users\19033\desktop\oop项目\项目四-继承与派生\shiyan6\第13章练习解答_vector\第13章练习解答_vector\vec.h(68): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+c:\users\19033\desktop\oop项目\项目四-继承与派生\shiyan6\第13章练习解答_vector\第13章练习解答_vector\vector.h(14): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+  c:\users\19033\desktop\oop项目\项目四-继承与派生\shiyan6\第13章练习解答_vector\第13章练习解答_vector\vector.h(20): note: 参见对正在编译的 类 模板 实例化 "Vector<T>" 的引用
+c:\users\19033\desktop\oop项目\项目四-继承与派生\shiyan6\第13章练习解答_vector\第13章练习解答_vector\vector.h(15): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+c:\users\19033\desktop\oop项目\项目四-继承与派生\shiyan6\第13章练习解答_vector\第13章练习解答_vector\vector.h(18): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+c:\users\19033\desktop\oop项目\项目四-继承与派生\shiyan6\第13章练习解答_vector\第13章练习解答_vector\vector.h(19): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+c:\users\19033\desktop\oop项目\项目四-继承与派生\shiyan6\第13章练习解答_vector\第13章练习解答_vector\vector.h(78): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+c:\users\19033\desktop\oop项目\项目四-继承与派生\shiyan6\第13章练习解答_vector\第13章练习解答_vector\vector.h(89): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+c:\users\19033\desktop\oop项目\项目四-继承与派生\shiyan6\第13章练习解答_vector\第13章练习解答_vector\vector.h(115): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+c:\users\19033\desktop\oop项目\项目四-继承与派生\shiyan6\第13章练习解答_vector\第13章练习解答_vector\vector.h(121): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+  testString.cpp
+c:\users\19033\desktop\oop项目\项目四-继承与派生\shiyan6\第13章练习解答_vector\第13章练习解答_vector\vec.h(14): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+  c:\users\19033\desktop\oop项目\项目四-继承与派生\shiyan6\第13章练习解答_vector\第13章练习解答_vector\vec.h(24): note: 参见对正在编译的 类 模板 实例化 "VECTOR<T>" 的引用
+c:\users\19033\desktop\oop项目\项目四-继承与派生\shiyan6\第13章练习解答_vector\第13章练习解答_vector\vec.h(68): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+  testVector.cpp
+c:\users\19033\desktop\oop项目\项目四-继承与派生\shiyan6\第13章练习解答_vector\第13章练习解答_vector\vec.h(14): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+  c:\users\19033\desktop\oop项目\项目四-继承与派生\shiyan6\第13章练习解答_vector\第13章练习解答_vector\vec.h(24): note: 参见对正在编译的 类 模板 实例化 "VECTOR<T>" 的引用
+c:\users\19033\desktop\oop项目\项目四-继承与派生\shiyan6\第13章练习解答_vector\第13章练习解答_vector\vec.h(68): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+c:\users\19033\desktop\oop项目\项目四-继承与派生\shiyan6\第13章练习解答_vector\第13章练习解答_vector\vector.h(14): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+  c:\users\19033\desktop\oop项目\项目四-继承与派生\shiyan6\第13章练习解答_vector\第13章练习解答_vector\vector.h(20): note: 参见对正在编译的 类 模板 实例化 "Vector<T>" 的引用
+c:\users\19033\desktop\oop项目\项目四-继承与派生\shiyan6\第13章练习解答_vector\第13章练习解答_vector\vector.h(15): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+c:\users\19033\desktop\oop项目\项目四-继承与派生\shiyan6\第13章练习解答_vector\第13章练习解答_vector\vector.h(18): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+c:\users\19033\desktop\oop项目\项目四-继承与派生\shiyan6\第13章练习解答_vector\第13章练习解答_vector\vector.h(19): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+c:\users\19033\desktop\oop项目\项目四-继承与派生\shiyan6\第13章练习解答_vector\第13章练习解答_vector\vector.h(78): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+c:\users\19033\desktop\oop项目\项目四-继承与派生\shiyan6\第13章练习解答_vector\第13章练习解答_vector\vector.h(89): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+c:\users\19033\desktop\oop项目\项目四-继承与派生\shiyan6\第13章练习解答_vector\第13章练习解答_vector\vector.h(115): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+c:\users\19033\desktop\oop项目\项目四-继承与派生\shiyan6\第13章练习解答_vector\第13章练习解答_vector\vector.h(121): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+  正在生成代码...
+  shiyan6.vcxproj -> C:\Users\19033\Desktop\oop项目\项目四-继承与派生\Debug\shiyan6.exe

@@ -1,0 +1,3 @@
+﻿  Gradetest.cpp
+c:\users\19033\desktop\oop项目\实验四五\实验四五\gradetest.cpp(132): error C2440: “return”: 无法从“int (__cdecl *)(void)”转换为“int”
+  c:\users\19033\desktop\oop项目\实验四五\实验四五\gradetest.cpp(132): note: 没有使该转换得以执行的上下文

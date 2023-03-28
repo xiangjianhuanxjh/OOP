@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1634822730 source:c:\users\lenovo\desktop\private\大二\面向对象的程序设计a\实验5\cstring\main.cpp
+	<bits/stdc++.h>
+
+1634822723 source:c:\users\lenovo\desktop\private\大二\面向对象的程序设计a\实验5\cstring\cstring.cpp
+	<bits/stdc++.h>
+	"cstring.h"
+
+1634822723 c:\users\lenovo\desktop\private\大二\面向对象的程序设计a\实验5\cstring\cstring.h
+	<bits/stdc++.h>
+
+1634822918 source:c:\users\lenovo\desktop\private\大二\面向对象的程序设计a\实验5\cstring\test.cpp
+	"cstring.h"
+	<bits/stdc++.h>
+
+1635008654 source:c:\users\lenovo\desktop\private\大二\面向对象的程序设计a\实验05\cstring\cstring.cpp
+	<bits/stdc++.h>
+	"cstring.h"
+
+1635008366 c:\users\lenovo\desktop\private\大二\面向对象的程序设计a\实验05\cstring\cstring.h
+	<bits/stdc++.h>
+
+1635008034 source:c:\users\lenovo\desktop\private\大二\面向对象的程序设计a\实验05\cstring\main.cpp
+	<bits/stdc++.h>
+
+1635008220 source:c:\users\lenovo\desktop\private\大二\面向对象的程序设计a\实验05\cstring\test.cpp
+	"cstring.h"
+	<bits/stdc++.h>
+
+1635008654 source:c:\users\19033\desktop\oop项目\项目二-字符串模板\实验05\cstring\cstring.cpp
+	<bits/stdc++.h>
+	"cstring.h"
+
+1635008366 c:\users\19033\desktop\oop项目\项目二-字符串模板\实验05\cstring\cstring.h
+	<bits/stdc++.h>
+
+1635008034 source:c:\users\19033\desktop\oop项目\项目二-字符串模板\实验05\cstring\main.cpp
+	<bits/stdc++.h>
+
+1635008698 source:c:\users\19033\desktop\oop项目\项目二-字符串模板\实验05\cstring\test.cpp
+	"cstring.h"
+	<bits/stdc++.h>
+

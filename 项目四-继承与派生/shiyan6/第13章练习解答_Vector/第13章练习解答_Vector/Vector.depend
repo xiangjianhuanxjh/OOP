@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1472441076 source:d:\《c++程序设计基础教程》\《c++程序设计基础教程》源代码_mingw\第13章练习解答_vector\mystring.cpp
+	"MyString.h"
+	<cstring>
+
+1472441036 d:\《c++程序设计基础教程》\《c++程序设计基础教程》源代码_mingw\第13章练习解答_vector\mystring.h
+	"Vec.h"
+
+1506909370 d:\《c++程序设计基础教程》\《c++程序设计基础教程》源代码_mingw\第13章练习解答_vector\vec.h
+	<iostream>
+
